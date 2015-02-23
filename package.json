@@ -1,0 +1,23 @@
+{
+  "name": "chrome-json-storage",
+  "version": "1.0.0",
+  "description": "A lightweight localstorage wrapper for Chrome Extensions that allows the gettig and setting of JSON values",
+  "scripts": {
+    "test": "grunt lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhemmings/chrome-json-storage"
+  },
+  "author": "Mark Hemmings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhemmings/chrome-json-storage/issues"
+  },
+  "homepage": "https://github.com/mhemmings/chrome-json-storage",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.8.0"
+  }
+}
